@@ -1,0 +1,15 @@
+# requirements.txt
+
+# Core libraries
+flask
+waitress
+pyserial
+flask-cors
+
+# Utilities
+argparse
+
+# If needed for development
+# pytest==7.4.0
+# black==23.7.0
+# flake8==6.1.0
